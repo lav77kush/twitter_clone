@@ -1,0 +1,23 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "this is first app to recap the node js concepts regarding how to start a project from the scratch",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lav77kush/twitter_clone.git"
+  },
+  "author": "lavkush yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lav77kush/twitter_clone/issues"
+  },
+  "homepage": "https://github.com/lav77kush/twitter_clone#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
